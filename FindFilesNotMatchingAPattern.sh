@@ -1,0 +1,1 @@
+grep -irL 'pattern' $path > $filename.txt
