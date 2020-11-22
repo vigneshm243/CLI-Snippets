@@ -1,4 +1,4 @@
-# Linux Snippets 
+# CLI Snippets 
 
 These are list of linux snippets that has eased my job by automating few tasks that would have taken days manually but can be done in seconds with help of simple commands
 
